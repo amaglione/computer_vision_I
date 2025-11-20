@@ -16,9 +16,8 @@ Cada trabajo práctico se encuentra organizado en su propio directorio, mientras
 
     COMPUTER_VISION/
     ├── TP_1/
-    │   ├── assets/              
-    │   ├── main.py              
-    │   └── notebook.ipynb       
+    │   ├── assets/               
+    │   └── tp1_cv.ipynb       
     ├── TP_2/
     │   └── ...                  
     ├── TP_3/
@@ -51,7 +50,7 @@ Ejemplo:
 
 Ejecutar TP1 (desde la raíz):
 
-    uv run python TP_1/main.py
+    uv run python TP_1/tp1_cv.ipynb
 
 Cuando TP2 y TP3 estén implementados:
 
