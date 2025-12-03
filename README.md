@@ -45,16 +45,3 @@ Ejemplo:
     uv add opencv-python
 
 ---
-
-## Ejecución de los Trabajos Prácticos
-
-Ejecutar TP1 (desde la raíz):
-
-    uv run python TP_1/tp1_cv.ipynb
-
-Cuando TP2 y TP3 estén implementados:
-
-    uv run python TP_2/main.py
-    uv run python TP_3/main.py
-
----
